@@ -1,0 +1,8 @@
+Field,Description
+Company,Company name
+Industry,Company industry & sub-industry (Industry: Sub-industry)
+Paid Maternity Leave,Paid weeks off from work for mothers after the birth of their child
+Unpaid Maternity Leave,Unpaid weeks off from work for mothers after the birth of their child
+Paid Paternity Leave,Paid weeks off from work for fathers after the birth of their child
+Unpaid Paternity Leave,Unpaid weeks off from work for fathers after the birth of their child
+,"NOTE: This is user-reported data. Where users report conflicting information, consensus numbers (if any) or the median are shown. ""N/A"" means no information has been reported."
